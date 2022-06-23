@@ -1,5 +1,11 @@
 @charset "UTF-8";
 * {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*::before, *::after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
@@ -15,6 +21,7 @@ body {
   -webkit-font-feature-settings: "palt";
   text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  background-color: #FAFDFF;
 }
 
 img {
@@ -33,30 +40,45 @@ ul {
 
 header {
   width: 100%;
-  height: 250px;
 }
 header div {
   width: 100%;
-  height: 200px;
+  height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 header div img {
-  width: 500px;
-  height: 50px;
+  width: 250px;
 }
 header nav {
   width: 100%;
-  height: 50px;
+  height: 40px;
   background-color: #3E3F40;
 }
 header nav ul {
   width: 1000px;
+  height: 100%;
+  margin: 0 auto;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 header nav ul li {
   width: 25%;
+  height: 100%;
+}
+header nav ul li a {
+  text-align: center;
+  display: block;
+  line-height: 40px;
+  color: #FAFDFF;
+  font-family: "Philosopher";
+  font-size: 2rem;
+}
+header nav ul li a:hover {
+  color: #3E3F40;
+  background-color: #BBBEBF;
 }
 
 /*# sourceMappingURL=style.css.map */
