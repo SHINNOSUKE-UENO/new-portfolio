@@ -302,9 +302,11 @@ header nav ul li a:hover {
   font-size: 2rem;
   font-weight: 500;
 }
-.profile-wrapper .profile-box .text-btn .button img {
-  width: 50%;
-  float: right;
+.profile-wrapper .profile-box .text-btn .more_btn a {
+  padding: 10px;
+  font-size: 20px;
+  letter-spacing: 0.1em;
+  color: #333;
 }
 .profile-wrapper .profile-box .profile-img {
   flex-grow: 2;

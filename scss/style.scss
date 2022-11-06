@@ -196,10 +196,12 @@ header {
                     }
                 }
             }
-            .button {
-                img {
-                    width: 50%;
-                    float: right;
+            .more_btn {
+                a {
+                    padding: 10px;
+                    font-size: 20px;
+                    letter-spacing: 0.1em;
+                    color: #333;
                 }
             }
         }

@@ -29,7 +29,9 @@
                         <p class="text-contents">為せば成る</p>
                     </div>
                 </div>
-                <a href="<?php echo esc_url(home_url('/profile')) ?>" class="button"><img src="<?php echo esc_url(get_theme_file_uri('image/min/pf-ボタン2.png')) ?>"></a>
+                <div class="more_btn">
+                    <a href="<?php echo esc_url(home_url('/profile')) ?>">more</a>
+                </div>
             </div>
             <div class="profile-img">
                 <img src="<?php echo esc_url(get_theme_file_uri('image/min/pf-profile_img.png')) ?>" alt="プロフィール画面">
