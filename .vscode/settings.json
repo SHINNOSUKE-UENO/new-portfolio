@@ -1,0 +1,11 @@
+{
+    "dartsass.targetDirectory": "./",
+    "dartsass.autoPrefixBrowsersList": [
+        "> 3% in JP",
+        "ie 11",
+        "android 4.4",
+        "last 1 versions"
+    ],
+    "dartsass.outputFormat": "cssonly",
+    "dartsass.sassBinPath": "C:/Users/s_uen/Local Sites/blog/app/public/wp-content/themes/new-portfolio/node_modules/sass/sass.js"
+}

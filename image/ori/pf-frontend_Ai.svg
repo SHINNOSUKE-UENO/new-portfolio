@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 64.192764 42.406822"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="pf-frontend_Ai.svg"
+   width="64.192764"
+   height="42.406822"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs14">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1341"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1047"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect874"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.3239838"
+     inkscape:cx="101.2097"
+     inkscape:cy="12.08474"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">アセット 387</title>
+  <g
+     id="g837"
+     transform="translate(45.352166,-12.940442)">
+    <g
+       id="g991"
+       transform="matrix(0.7872181,-0.21931196,0.21931196,0.7872181,-18.330515,16.021968)">
+      <path
+         d="M 22.33,33.94 42.28,14 35.2,6.93 10.46,31.68 a 7.19,7.19 0 0 1 4.83,2.24 7.24,7.24 0 0 1 2.24,4.83"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="path6" />
+      <path
+         d="m 17.51,38.77 v 0 A 7.19,7.19 0 0 0 15.29,33.92 7.14,7.14 0 0 0 10.44,31.7 v 0 L 6.8,42.4 Z"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="path8" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -40.170291,47.298859 c 1.913482,-1.980353 4.45222,-3.347468 7.158803,-3.85503 2.706582,-0.507561 5.568154,-0.153158 8.069138,0.999357 2.186485,1.007586 4.059402,2.583328 6.163022,3.754108 1.836362,1.022036 3.855471,1.732271 5.940839,1.993086 2.8833309,0.360615 5.870705,-0.157991 8.46379,-1.469307"
+       id="path872"
+       inkscape:path-effect="#path-effect874"
+       inkscape:original-d="m -40.170291,47.298859 c 5.076312,-0.950644 10.152293,-1.902536 15.227941,-2.855673 5.075648,-0.953141 4.109014,2.503986 6.163022,3.754108 2.054009,1.250123 3.960889,1.329976 5.940839,1.993086 1.979947,0.66312 5.642858,-0.97829 8.46379,-1.469307" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -41.739693,49.068135 c -0.319446,0.373476 -0.619845,0.763242 -0.899639,1.167279 -0.304635,0.439908 -0.584837,0.896734 -0.838887,1.367669"
+       id="path1045"
+       inkscape:path-effect="#path-effect1047"
+       inkscape:original-d="m -41.739693,49.068135 c -0.289187,0.422916 -0.609884,0.744787 -0.899639,1.167279 -0.289755,0.422491 -0.548568,0.945602 -0.838887,1.367669"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -44.362676,53.509047 c -0.113688,0.259111 -0.217683,0.522475 -0.311694,0.789356 -0.0639,0.181408 -0.123193,0.364441 -0.177796,0.548862"
+       id="path1337"
+       inkscape:path-effect="#path-effect1341"
+       inkscape:original-d="m -44.362676,53.509047 -0.311694,0.789356 -0.177796,0.548862"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <metadata
+     id="metadata833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>アセット 387</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
